@@ -10,4 +10,8 @@
     right: 4%;
   }
 
+  #social a {
+    display: inline-block;
+  }
+
 }
